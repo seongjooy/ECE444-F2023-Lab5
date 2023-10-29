@@ -1,1 +1,4 @@
-ECE444-F2023-Lab5
+<b>ECE444-F2023-Lab5</b><br/>
+
+What are the pros and cons of TDD?<br/>
+TDD enforces an approach to development where tests cases are written before writing code. This allows for the early detection and resolution of bugs and issues. Since tests are written before the code, any deviations from expected behavior can be determined immediately. Further, higher code quality is another advantage because code is explicitly written to meet the specific requirements defined by the tests; therefore, if the tests are robustly defined, the resulting code would also be able to robustly meet the requirements. However, writing tests before code can be time-consuming, especially when requirements are unclear or evolving. This might slow down initial development. Also, TDD doesn't guarantee that all aspects of the software are adequately tested. Developers might unintentionally omit certain scenarios or test cases, leading to potential blind spots and lead to bugs in the code which invalidates the point of using TDD to some extent.
